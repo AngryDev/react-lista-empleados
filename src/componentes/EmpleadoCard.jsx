@@ -149,7 +149,7 @@ export const EmpleadoCard = () => {
              })
             ) : (
             <div>
-              <p>No hay datos</p>
+              <p>Cargando... </p>
             </div>
           )}
         </div>
