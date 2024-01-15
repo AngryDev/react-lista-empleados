@@ -1,6 +1,7 @@
 # React App Northwind Employees List
 
 En esta app, se hace un fetch de esta url, donde esta publicada la base de datos northwind por lo que no es necesario acceso a un servidor mssql: https://demodata.grapecity.com/northwind/api/v1/Employees
+![Imagen de la App](https://github.com/AngryDev/react-lista-empleados/blob/main/2024-01-14%20125407.png)
 
 la base de datos tiene imagenes incrustadas como blob, que requirieron un especial tratamiento para poder visulizarlas, es un modelo antiguo, que se usaba con tecnologias microsoft y OLE. Estan en formato BMP y cuando se descargan se convierten a JPEG.
 
